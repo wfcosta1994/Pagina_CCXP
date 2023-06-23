@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#CCXP22{
+    background-color: #FFD900;
+}
+#ccxp{
+    padding: 20px;
+}
+#txprincipal{
+    margin-right: 10px;
+    text-align: center;
+    background-color: #514988;
+}
+#titulo{
+    color: #F3C61F;
+    padding-top: 20px;
+}
+#subtitulo{
+    color: #FFFFFF;
+}
+#texto{
+    color: #FFFFFF;
+}
+#principal{
+    display: grid;
+    grid-auto-flow: column;
+}
+.timer{
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 15px;
+    height: 10px;
+    color: #514988;
+    margin-left: 20px;
+    margin-right: 350px; 
+}
+#video{
+    margin-top: 10px; 
+          
+}
+#txvideo{
+    margin: 30px 0px 10px 0px;
+    margin-left: 20px;
+    color: #E33881;
+}
+.promocao{
+    margin-top: 10px;
+    width: 170px;
+    margin-bottom: 20px;
+}
+#setor_prom{
+    font-size: 14px;
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 15px;        
+    margin-right: 350px;
+}
+#tit_promocao{
+    margin-top: 15px;
+    margin-left: 30px;
+    color: #F3C61F;
+}
+.button{
+    color: white;
+    background-color: #514988;
+    border: 0px;
+    width: 300px;
+    height: 70px;
+    margin-top: 70px;
+    margin-left: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.d_timer{
+    display: flex;    
+}
